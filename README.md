@@ -34,6 +34,7 @@ Here is a screenshot of my planning board
 ## Data Dictionary
 
 - Please use this data dictionary as a reference for the variables used within in the data set.
+
 | Feature       | Data type     | Description     |
 | :------------- | :----------: | -----------: |
 |  parcelid | int64   | Unique parcel identifier    |
